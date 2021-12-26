@@ -1,0 +1,18 @@
+This is a very basic TODO List Application made on Core PHP and using MySQL database.
+The code is pretty much easy to understand. I will provide the database details here.
+
+
+DATABASE NAME = todo
+
+TABLE NAME = todo_list
+
+COLUMNS IN TABLE:- 
+1) id -  This is the primary key
+2) item - This is the todo list item inserted by user.
+3) active - This is the activity status of any task inserted by user where "1" is for task that is still incomplete
+and "0" is for the task that is completed.
+
+MORE UPDATES WILL BE MADE TO THIS APPLICATION BUT TILL THEN>>
+
+
+ENJOY THE APPLICATION!!
